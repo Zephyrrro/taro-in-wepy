@@ -1,3 +1,0 @@
-<block wx:if="{{$taroCompReady}}">
-    <view>{{text ? text : 'no props'}}</view>
-</block>

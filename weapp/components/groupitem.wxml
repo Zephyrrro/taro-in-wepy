@@ -1,5 +1,0 @@
-
-<view class="groupitem">
-  --<label class="id">{{gitem.childid}}.</label>
-  <label data-wpy-evt="66-0" bind:tap="_proxy" class="name"> {{gitem.childname}}</label>
-</view>
